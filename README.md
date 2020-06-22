@@ -1,2 +1,2 @@
-# setech-planner
-Gerenciador de Tarefas Básico
+Documentation: 
+Read the "default/documentation.html" or "topbar/documentation.html"
